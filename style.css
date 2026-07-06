@@ -1,0 +1,59 @@
+body {
+  font-family: 'Arial', sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #597650;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 78px;
+  text-align: center;
+  color: #597650;
+}
+
+.eee{
+  list-style-type: none;
+}
+
+.text {
+  color: #9bad96;
+}
+
+
+.card {
+  background-color: #eefdee;
+  height: 530px;
+  width: 300px;
+  border: 1px solid #9bad96;
+  border-radius: 10px;
+  padding: 20px;
+  padding-bottom: 40px;
+  margin: 30px;
+  float: left;
+
+}
+
+.ese_text {
+  padding-left: 22px;
+  margin: 28px;
+}
+
+.i_ese_text {
+  padding-left: 12px;
+  margin: 28px;
+}
+
+.rybliki {
+  padding-left: 213px;
+}
+
+.padvinsya{
+  margin-top: 10px;
+  margin-bottom: 35px;
+}
+
+.chuchut-padvinsya{
+  margin-bottom: 20px;
+}
