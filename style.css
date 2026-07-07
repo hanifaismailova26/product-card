@@ -13,7 +13,7 @@ body {
   color: #597650;
 }
 
-.eee{
+.product-list{
   list-style-type: none;
 }
 
@@ -35,25 +35,25 @@ body {
 
 }
 
-.ese_text {
+.product-title1 {
   padding-left: 22px;
   margin: 28px;
 }
 
-.i_ese_text {
+.product-title2 {
   padding-left: 12px;
   margin: 28px;
 }
 
-.rybliki {
+.price {
   padding-left: 213px;
 }
 
-.padvinsya{
+.spacing{
   margin-top: 10px;
   margin-bottom: 35px;
 }
 
-.chuchut-padvinsya{
+.spacing-small{
   margin-bottom: 20px;
 }
