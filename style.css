@@ -58,3 +58,7 @@ body {
 .spacing-small{
   margin-bottom: 20px;
 }
+
+.pictures {
+ width: 300px;
+}
