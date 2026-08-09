@@ -10,55 +10,59 @@ body {
 }
 
 .title {
-  font-size: 69px;
-  font-weight: 400;
+  font-size: 70px;
+  font-weight: 300;
   line-height: 200px;
   text-align: center;
   color: #597650;
 }
 
-.product-list{
+.products{
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 30px;
 }
 
-.text {
+.card__category {
   color: #9bad96;
 }
 
 
 .card {
   background-color: #eefdee;
-  height: 530px;
-  width: 304px;
+  min-height: 560px;
+  width: 324px;
   border: 1px solid #9bad96;
   border-radius: 10px;
   padding: 20px;
-  padding-bottom: 40px;
+}
+
+.card__title {
+  text-align: center;
   margin: 30px;
 }
 
-.product-title {
-  text-align: center;
-  margin: 28px;
-}
-
-.price {
+.card__price {
   display: flex;
   justify-content: space-between;
 }
 
-.ingredients-list{
-  margin-top: 10px;
+.compound__title {
+  display:inline-block;
+  margin-bottom: 10px;
+}
+
+.compound__ingredients {
   margin-bottom: 35px;
 }
 
-.spacing-small{
+.card__description{
   margin-bottom: 20px;
 }
 
-.pictures {
+.card__pictures {
  width: 300px;
 }
+
